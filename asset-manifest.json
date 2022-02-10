@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tours-project/static/css/main.8e49c9d7.chunk.css",
+    "main.js": "/tours-project/static/js/main.49391bd4.chunk.js",
+    "main.js.map": "/tours-project/static/js/main.49391bd4.chunk.js.map",
+    "runtime-main.js": "/tours-project/static/js/runtime-main.0f695b42.js",
+    "runtime-main.js.map": "/tours-project/static/js/runtime-main.0f695b42.js.map",
+    "static/css/2.b5e82d2c.chunk.css": "/tours-project/static/css/2.b5e82d2c.chunk.css",
+    "static/js/2.ada9a067.chunk.js": "/tours-project/static/js/2.ada9a067.chunk.js",
+    "static/js/2.ada9a067.chunk.js.map": "/tours-project/static/js/2.ada9a067.chunk.js.map",
+    "index.html": "/tours-project/index.html",
+    "precache-manifest.ad2f1f8a0ac68442c4f5f40ceadc9373.js": "/tours-project/precache-manifest.ad2f1f8a0ac68442c4f5f40ceadc9373.js",
+    "service-worker.js": "/tours-project/service-worker.js",
+    "static/css/2.b5e82d2c.chunk.css.map": "/tours-project/static/css/2.b5e82d2c.chunk.css.map",
+    "static/css/main.8e49c9d7.chunk.css.map": "/tours-project/static/css/main.8e49c9d7.chunk.css.map",
+    "static/js/2.ada9a067.chunk.js.LICENSE.txt": "/tours-project/static/js/2.ada9a067.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f695b42.js",
+    "static/css/2.b5e82d2c.chunk.css",
+    "static/js/2.ada9a067.chunk.js",
+    "static/css/main.8e49c9d7.chunk.css",
+    "static/js/main.49391bd4.chunk.js"
+  ]
+}
